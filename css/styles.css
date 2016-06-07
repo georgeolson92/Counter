@@ -1,0 +1,16 @@
+.code-section {
+  background-color: #eee;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 20px;
+  margin-bottom: 30px;
+  color: gray;
+}
+
+.has-error {
+  color: red;
+}
+
+#wordoccur {
+  margin-top: 30px;
+}
